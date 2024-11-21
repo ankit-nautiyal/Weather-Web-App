@@ -30,7 +30,7 @@ A simple web application that displays the current weather for a given city usin
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ankit-nautiyal/My-City-Weather-Web-App.git
+    git clone https://github.com/ankit-nautiyal/Weather-Web-App.git
     ```
 
 2. **Navigate to the project directory:**
